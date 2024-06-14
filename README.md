@@ -2,7 +2,7 @@
 
 My name is Noah, and I'm a full stack web developer, studying at Grafisch Lyceum Utrecht.
 - 📍 The Netherlands
-- 🤓 Skills: HTML, CSS, JavaScript, React.js SASS, Git, PHP, MySQL, Laravel, TypeScript, Next.js and PostCSS
+- 🤓 Skills: HTML, CSS, JavaScript, React.js SASS, Tailwind Git, PHP, MySQL, Laravel, TypeScript, Next.js and PostCSS
 - 💻 Current preferred tech stack: Next.js + TypeScript + Prisma + MySQL + PostCSS + SASS
 - 🪴 Hobbies (except coding): drums, (bass) guitar, piano, just music in general :). I also really enjoy cycling and bouldering!
 
