@@ -17,10 +17,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 My name is Noah, and I'm a full stack web developer, studying at Grafisch Lyceum Utrecht.
 - 📍 The Netherlands
-- 🤓 **Skills**: Next.js/React, TypeScript, Go, Node.js, Fastify, Express, Vue, HTML, CSS, JavaScript, SASS/SCSS, Tailwind, PHP, MySQL and Laravel
+- ⚙️ Currently learning **Rust**
+- 🤓 **Skills**: Next.js/React, TypeScript, Go, Node.js, Fastify, Express, Vue, HTML, CSS, JavaScript, SASS/SCSS, Tailwind, PHP, MySQL, Laravel and Svelte
 - 🔨 **Cool dependencies I like to use**: React Three Fiber, Framer Motion, GSAP, Zod, Prisma, Drizzle
 - 💻 **Current preferred tech stack**: Next.js + TypeScript + Prisma + MySQL + Tailwind
 - 🔧 **Tools I use**: Git, Github Actions, nginx, Figma, Photoshop, Illustrator
