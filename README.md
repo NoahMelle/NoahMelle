@@ -30,7 +30,7 @@ My name is Noah, and I'm a full stack web developer, studying at Grafisch Lyceum
 
 ## Links and stuff:
 
-- 🚀 Take a look at my [portfolio](https://noeycodes.com/en)
+- 🚀 Take a look at my [portfolio](https://noeycodes.com/)
 - 📷 View some cool music stuff on [Instagram](https://www.instagram.com/noeyguitar/)
 
 <!---
